@@ -31,7 +31,7 @@ middlewares.py -> scrapy中间组件
 
 ```python
 pip install -r requirements.txt
-scrapy crawl zhipin -o jobs_python
+scrapy crawl zhipin -o jobs_python.json
 ```
 
 使用 Jupyter Notebook 配合 echarts进行绘图（绘图部分由我可爱的girl编写，真的很棒），部分示例图如下所示🔍
