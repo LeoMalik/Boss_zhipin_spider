@@ -1,0 +1,13 @@
+##############################
+## Folders                  ##
+##############################
+.idea
+__pycache__
+##############################
+## Netbeans conf            ##
+##############################
+scrapy.cfg
+all_hotwords.png
+analysis.txt
+result.txt
+jobs.jobs_python.csv

@@ -1,0 +1,15 @@
+wordcloud
+requests
+jieba
+pymongo
+matplotlib
+BeautifulSoup4
+bson
+scrapy
+pyecharts
+echarts-countries-pypkg
+echarts-china-provinces-pypkg
+echarts-china-cities-pypkg
+matplotlib
+numpy
+pandas
