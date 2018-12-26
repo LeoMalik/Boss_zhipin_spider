@@ -9,7 +9,23 @@
 
 字段浅显易懂，其中需要说明的是pid为每个待招岗位的唯一id，在访问页面详情时会用到
 
-（例：https://www.zhipin.com/job_detail/cd6ff0e8a82db26d1HV-092_F1Y~.html），注意爬取不要太快，否则403警告😏
+例：[](https://www.zhipin.com/job_detail/cd6ff0e8a82db26d1HV-092_F1Y~.html) ，注意爬取不要太快，否则403警告😏
+
+## 项目结构
+
+boss招聘.ipynb -> 生成分析图表
+
+mongo_connect.py -> 数据清洗，存入mongodb
+
+pipelines.py -> 数据过滤的管道
+
+spider -> 爬虫
+
+wordcloud -> 生成词云
+
+settings.py -> scrapy配置文件
+
+middlewares.py -> scrapy中间组件
 
 ## 运行方式
 
